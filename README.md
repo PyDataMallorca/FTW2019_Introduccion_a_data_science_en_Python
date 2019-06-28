@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PyDataMallorca/FTW2019_Introduccion_a_data_science_en_Python/master)
 
-Materiales para el taller 'Introducción a Data Science en Python' en la Felanitx Tech Weekend 2019 realizado por los organizadores del meetup PyDataMallorca.
+Materiales para el taller 'Introducción a Data Science en Python' en la [Felanitx Tech Weekend 2019](http://felanitxtechweekend.com/) realizado por los organizadores del meetup PyDataMallorca.
 
 Página web del Meetup: https://www.meetup.com/PyData-Mallorca/
 
