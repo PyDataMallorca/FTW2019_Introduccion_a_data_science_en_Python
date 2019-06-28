@@ -1,4 +1,4 @@
-# Felanitx Tech Weeken 2019: Introducción a Data Science en Python
+# Felanitx Tech Weekend 2019: Introducción a Data Science en Python
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PyDataMallorca/FTW2019_Introduccion_a_data_science_en_Python/master)
 
