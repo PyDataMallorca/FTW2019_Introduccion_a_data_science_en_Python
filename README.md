@@ -55,15 +55,13 @@ ACÉRCATE MEDIA HORA ANTES AL TALLER Y TRATAREMOS DE AYUDARTE CON TODO ELLO]**
 
 # Durante el taller
 
-Como en el paso anterior habéis instalado los paquetes necesarios, solamente tenéis que activar el entorno creado y usar los paquetes. Para ello, en la misma terminal que los pasos anteriores deberéis ejecutar
+Como en el paso anterior habéis instalado los paquetes necesarios, solamente tenéis que activar el entorno creado y usar los paquetes. Para ello, en la misma terminal que los pasos anteriores deberéis ejecutar **[si tienes Anaconda instalado te puedes saltar el anterior paso]**:
 
 `source activate ftw19`
 
 Y finalmente también ejecutar jupyter notebook para acceder al tutorial. Atención: se abrirá un navegador web.
 
 `jupyter notebook`
-
-
 
 # Contenidos
 
@@ -80,21 +78,21 @@ Y finalmente también ejecutar jupyter notebook para acceder al tutorial. Atenci
 6. Resolución de un problema de clasificación mediante scikit-learn. Posteriormente, propondremos un problema de clasificación y explicaremos un algoritmo matemático que permita su resolución, ¡no te asustes! No entraremos en explicaciones matemáticas profundas, pero sí intentaremos comprender cómo funcionan estos algoritmos de forma general y en particular para el algoritmo de clasificación escogido. Haremos ejercicios y jugaremos con los datos para poder entender mejor cómo funciona un algoritmo de este tipo. Utilizaremos scikit-learn, que es la librería de Python que nos permite implementar soluciones de Machine Learning.
 
 
-# Autores y colaboradores (por orden alfabético)
+# Autores y colaboradores (por orden alfabético inverso)
 
-* Jordi Contestí.
-
-* Kiko Correoso ([pybonacci.org](https://pybonacci.org), [twitter](https://twitter.com/Pybonacci)).
-
-* Guillem Duran [twitter](https://twitter.com/Miau_DB).
-
-* Guillem J. De Ignacio Mari.
-
-* Juan Carlos González [twitter](https://twitter.com/jcgavella).
+* Eulàlia Veny [twitter](https://twitter.com/linguistsmatter).
 
 * Antònia Tugores [twitter](https://twitter.com/antoniatugores).
 
-* Eulàlia Veny [twitter](https://twitter.com/linguistsmatter).
+* Juan Carlos González [twitter](https://twitter.com/jcgavella).
+
+* Guillem J. De Ignacio Mari.
+
+* Guillem Duran [twitter](https://twitter.com/Miau_DB).
+
+* Kiko Correoso ([pybonacci.org](https://pybonacci.org), [twitter](https://twitter.com/Pybonacci)).
+
+* Jordi Contestí.
 
 # Contacto
 
